@@ -1,0 +1,12 @@
+##
+# Don't include the following files in commits
+#
+#
+*.o
+*.exe
+*.so
+*.lo
+
+*.pyc
+*.class
+
